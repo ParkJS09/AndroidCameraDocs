@@ -1,0 +1,8 @@
+<resources>
+    <color name="cam_bg">#FF000000</color>
+    <color name="cam_accent">#FFFFC53D</color>
+    <style name="Theme.NeuCam" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/cam_bg</item>
+        <item name="android:colorAccent">@color/cam_accent</item>
+    </style>
+</resources>
